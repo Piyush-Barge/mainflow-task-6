@@ -13,7 +13,7 @@ Upload form
 
 Clone the repo:
 
-git clone https://github.com/Piyush-Barge/Mainflow-internship-Task6
+git clone https://github.com/Piyush-Barge/Mainflow-task-6
 
 # Install dependencies:
 npm install
